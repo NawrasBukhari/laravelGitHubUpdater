@@ -18,7 +18,7 @@ that needs some updating mechanism without [Composer](https://getcomposer.org/).
 To install the latest version from the master using [Composer](https://getcomposer.org/):
 
 ```sh
-$ composer require NawrasBukhari/laravelGitHubUpdater
+$ composer require nawrasbukhari/laravelgitHubupdater
 ```
 
 ## Configuration
